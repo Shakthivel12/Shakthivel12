@@ -2,7 +2,7 @@
 - 👀 I’m interested in software architecture
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on IT Industry
-- 📫 How to reach me shakthidhana1822
+- 📫 How to reach me shakthidhana1822@gmail.com
 
 <!---
 Shakthivel12/Shakthivel12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
